@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eroudini</h1>
 <h3 align="center">Développeur web et mobile passionné 🤩</h3>
-<img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="380" align="right"/>
+<img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400" align="right"/>
 
 <p align="left">
 </p>
