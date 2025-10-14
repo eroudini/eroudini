@@ -16,6 +16,7 @@
 <div align="center" >  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="java" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" alt="java" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="angular" width="75" height="75"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="75" height="75"/>         
