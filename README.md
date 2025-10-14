@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4DB6AC&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&lines=Salut%2C+moi+c'est+Eroudini!;Développeur+logiciel+embarqué+en+devenir" alt="Developer Intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&lines=Salut%2C+moi+c'est+Eroudini!;Développeur+logiciel+embarqué+en+devenir !" alt="Developer Intro"/>
 </a>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ### 👋 À propos de moi  
 
-Je m'appelle **Eroudini**, passionné par le **développement logiciel embarqué** et les **systèmes temps réel**.  
+Je m'appelle **Eroudini**, passionné par le **développement de logiciel embarqué** et les **systèmes temps réel**.  
 🎯 Mon objectif : concevoir des systèmes intelligents, performants et robustes — du code bas niveau jusqu’à l’interface utilisateur.  
 
 💼 J’ai **1 an d’expérience en alternance** en tant que **développeur Java / Angular**, où j’ai contribué à la conception et à l’évolution d’applications métiers.  
@@ -45,13 +45,13 @@ Je suis curieux, rigoureux et toujours en quête d’apprentissage — que ce so
 ### 🌐 Me contacter  
 
 <div>
-    <a href="https://www.linkedin.com/in/ton-lien-linkedin">
+    <a href="https://www.linkedin.com/in/eroudini">
         <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
     </a>
-    <a href="mailto:ton.email@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+    <a href="mailto:eroudiniabdillah@proton.me">
+        <img src="https://skillicons.dev/icons?i=proton" width="45" height="45" alt="proton"/>
     </a>
-    <a href="https://github.com/tonpseudo">
+    <a href="https://github.com/eroudini">
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
     </a>
 </div>
@@ -61,7 +61,7 @@ Je suis curieux, rigoureux et toujours en quête d’apprentissage — que ce so
 ### 📄 Télécharge mon CV  
 
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/ton-lien-cv" download>Télécharger mon CV</a>
+> <a href="https://drive.google.com/file/d/1llUQAjX8UnAJw6KcGlko7eIMLmWT3yT3/view?usp=sharing" download>Télécharger mon CV</a> 
 
 ---
 
