@@ -1,6 +1,6 @@
-<div id="" align="center">
+<!-- <div id="" align="center">
   <a href="https://eroudini-portfolio.netlify.app" ><img src="https://github.com/eroudini/eroudini/blob/main/ban.png?raw=true" width="100%"/></a>
-</div>
+</div> -->
 
 <hr>
 
