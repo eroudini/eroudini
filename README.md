@@ -9,12 +9,8 @@
 
 
 
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1yZDNxZWxudjRxamFyNmRrd2Nxd2U0cGdoa3A5dmpycXh1bTF5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding Animation"
-    width="100%"
-  />
+<div align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1yZDNxZWxudjRxamFyNmRrd2Nxd2U0cGdoa3A5dmpycXh1bTF5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation"/> 
 </div>
 
 
