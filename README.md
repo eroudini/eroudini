@@ -14,7 +14,6 @@
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1yZDNxZWxudjRxamFyNmRrd2Nxd2U0cGdoa3A5dmpycXh1bTF5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Coding Animation"
     width="100%"
-    style="max-width: 1200px; height: auto; border-radius: 10px; object-fit: cover;"
   />
 </div>
 
