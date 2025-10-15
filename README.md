@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&center=true&vCenter=true&lines=Hi%20%F0%9F%91%8B!;D%C3%A9veloppeur+logiciel+embarqu%C3%A9+en+devenir"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&center=true&vCenter=true&lines=Hi%20%F0%9F%91%8B!+I'm Eroudini;D%C3%A9veloppeur+logiciel+embarqu%C3%A9+en+devenir"
     alt="Développeur logiciel embarqué en devenir"
   />
 </a>
