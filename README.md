@@ -18,7 +18,8 @@
 
 ### 👋 À propos de moi  
 
-Passioné par le **développement de logiciel embarqué** et les **systèmes temps réel**. 
+Passioné par le **développement de logiciel embarqué** et les **systèmes temps réel**.  
+
 🎯 Mon objectif : concevoir des systèmes intelligents, performants et robustes — du code bas niveau jusqu’à l’interface utilisateur.  
 
 💼 J’ai **1 an d’expérience en alternance** en tant que **développeur Java / Angular**, où j’ai contribué à la conception et à l’évolution d’applications métiers.  
