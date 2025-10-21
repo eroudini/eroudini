@@ -1,11 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4DB6AC&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&center=true&vCenter=true&lines=Hi%20%F0%9F%91%8B!%20I'm%20Eroudini;D%C3%A9veloppeur%20logiciel%20embarqu%C3%A9%20en%20devenir"
+    alt="Eroudini - Développeur logiciel embarqué en devenir"
+  />
+</a>
 
 
-
-<div align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1yZDNxZWxudjRxamFyNmRrd2Nxd2U0cGdoa3A5dmpycXh1bTF5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation"/> 
-</div>
 
 
 ---
