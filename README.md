@@ -27,7 +27,9 @@ Diplômé en informatique, je conçois des applications modernes et scalables, a
 Développement de projets perso autour des systèmes connectés et de la collecte de données en temps réel.
 
 ## 🧠 À propos
-Curieux et rigoureux, j’aime comprendre en profondeur les systèmes que je développe et explorer différentes approches d’architecture logicielle.
+
+Curieux et touche-à-tout, j’aime apprendre des autres, transmettre ce que j’ai acquis et découvrir de nouveaux domaines.
+
 ---
 
 ### 🧰 Compétences principales
