@@ -8,25 +8,24 @@
 </a>
 
 
-
-
 ---
 
 # 👋 Développeur logiciel
 
-Développeur logiciel passionné par la création de solutions logicielles robustes et performantes.
+Développeur logiciel passionné par la création de solutions robustes, évolutives et performantes.
+
+Diplômé en informatique, je conçois des applications modernes et scalables, avec un focus sur la résolution de problèmes concrets et l’architecture logicielle.
 
 ## 💼 Expérience
-- 1 an d’expérience en alternance en développement d’applications métiers  
-  → Participation à la création, l’évolution et la maintenance de solutions logicielles  
-- Actuellement développeur back-end chez TCL (Transports en Commun Lyonnais)
+- **1 an d’alternance en développement d’applications métiers**
+  - Participation au développement, à l’évolution et à la maintenance de solutions logicielles
+- **Développeur back-end chez TCL (Transports en Commun Lyonnais)**
 
 ## 🚀 Projets personnels
 Développement de projets autour des systèmes connectés et de la collecte de données en temps réel.
 
 ## 🧠 À propos
 Curieux et rigoureux, j’aime comprendre en profondeur les systèmes que je développe et explorer différentes approches d’architecture logicielle.
-
 ---
 
 ### 🧰 Compétences principales
