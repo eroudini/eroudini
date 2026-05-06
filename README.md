@@ -19,7 +19,7 @@ Diplômé en informatique, je conçois des applications modernes et scalables, a
 ## 💼 Expérience
 - **1 an d’alternance en développement d’applications métiers | Chez Dawan France**
   - Participation au développement, à l’évolution et à la maintenance d'une solutions logicielles de gestion de candidature
-- **Développeur back-end chez TCL (Transports en Commun Lyonnais)**
+- **Actuellement développeur back-end chez TCL (Transports en Commun Lyonnais)**
   - Conception et développement d’une application interne stratégique
   - Contribution à l’évolution et à l’optimisation des logiciels internes
 
