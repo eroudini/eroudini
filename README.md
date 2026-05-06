@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DB6AC&width=600&center=true&vCenter=true&lines=Hi%20%F0%9F%91%8B!%20I'm%20Eroudini;D%C3%A9veloppeur%20logiciel%20embarqu%C3%A9%20en%20devenir"
-    alt="Eroudini - Développeur logiciel embarqué en devenir"
+    alt="Eroudini - Développeur logiciel"
   />
 </a>
 
@@ -12,15 +12,20 @@
 
 ---
 
-### 👋 À propos de moi  
+# 👋 Développeur logiciel
 
-Passioné par le **développement de logiciel embarqué** et les **systèmes temps réel**.  
+Développeur logiciel passionné par la création de solutions logicielles robustes et performantes.
 
-🎯 Mon objectif : concevoir des systèmes intelligents, performants et robustes — du code bas niveau jusqu’à l’interface utilisateur.  
-💼 J’ai **1 an d’expérience en alternance** en tant que **développeur Java / Angular**, où j’ai contribué à la conception et à l’évolution d’applications métiers.  
-⚙️ En parallèle, je mène plusieurs **projets personnels en embarqué**, dont une **station météo connectée basée sur STM32**, avec communication série, capteurs environnementaux et affichage temps réel.
+## 💼 Expérience
+- 1 an d’expérience en alternance en développement d’applications métiers  
+  → Participation à la création, l’évolution et la maintenance de solutions logicielles  
+- Actuellement développeur back-end chez TCL (Transports en Commun Lyonnais)
 
-Je suis curieux, rigoureux et toujours en quête d’apprentissage — que ce soit pour approfondir le C/C++ embarqué, explorer les RTOS, ou expérimenter de nouvelles architectures logicielles.
+## 🚀 Projets personnels
+Développement de projets autour des systèmes connectés et de la collecte de données en temps réel.
+
+## 🧠 À propos
+Curieux et rigoureux, j’aime comprendre en profondeur les systèmes que je développe et explorer différentes approches d’architecture logicielle.
 
 ---
 
