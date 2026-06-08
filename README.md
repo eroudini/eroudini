@@ -17,11 +17,11 @@ Développeur logiciel passionné par la création de solutions robustes, évolut
 Diplômé en informatique, je conçois des applications modernes et scalables, avec un focus sur la résolution de problèmes concrets et l’architecture logicielle.
 
 ## 💼 Expérience
-- **1 an d’alternance en développement d’applications métiers | Chez Dawan France**
-  - Participation au développement, à l’évolution et à la maintenance d'une solutions logicielles de gestion de candidature
 - **Actuellement développeur back-end chez TCL (Transports en Commun Lyonnais)**
   - Conception et développement d’une application interne stratégique
   - Contribution à l’évolution et à l’optimisation des logiciels internes
+- **1 an d’alternance en développement d’applications métiers | Chez Dawan France**
+  - Participation au développement, à l’évolution et à la maintenance d'une solutions logicielles de gestion de candidature
 
 ## 🚀 Projets personnels
 Développement de projets perso autour des systèmes connectés et de la collecte de données en temps réel.
