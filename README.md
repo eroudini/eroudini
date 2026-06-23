@@ -46,7 +46,7 @@ Curieux et touche-à-tout, j’aime apprendre des autres, transmettre ce que j�
 - 💻 **Application web Angular / Java Spring Boot** - gestion de données métier et API REST.  
 - 📄 **PDF Summarizer** - service FastAPI de résumé de documents PDF basé sur une stratégie map-reduce pour gérer les longs documents.
 - 🛒 **AIMerchant** - application SaaS propulsée par l'IA qui aide les commerçants à optimiser leurs ventes et leurs marges. Analyse des données en temps réel et recommandations intelligentes pour faire croître l'activité.
-- 
+
 
 ---
 
