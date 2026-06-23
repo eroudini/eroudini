@@ -20,7 +20,7 @@ Diplômé en informatique, je conçois des applications modernes et scalables, a
 - **Actuellement développeur back-end chez TCL (Transports en Commun Lyonnais)**
   - Conception et développement d’une application interne stratégique
   - Contribution à l’évolution et à l’optimisation des logiciels internes
-- **1 an d’alternance en développement d’applications métiers | Chez Dawan France**
+- **1 an d’alternance en développement d’applications métiers | Chez Jehann (ESN) **
   - Participation au développement, à l’évolution et à la maintenance d'une solutions logicielles de gestion de candidature
 
 ## 🚀 Projets personnels
